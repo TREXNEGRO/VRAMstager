@@ -1,6 +1,6 @@
-# GPUstic-CUDA
+# VRAMstager-CUDA
 
-PoC avanzado de malware híbrido que usa CUDA para cargar y desencriptar payloads en VRAM con triggers locales para ejecución condicional.
+PoC de malware híbrido que usa CUDA para cargar y desencriptar payloads en VRAM con triggers locales para ejecución condicional.
 
 ---
 
